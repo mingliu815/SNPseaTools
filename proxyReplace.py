@@ -99,6 +99,3 @@ if __name__ == "__main__":
 
 	findProxy(inFile, outFile)
 
-
-#print("rs6905736" in ref_id, "rs9350191" in ref_id, "rs35612927" in ref_id, "rs11759102" in ref_id)
-#print("rs34651" in ref_id, "rs3170740" in ref_id, "rs798565" in ref_id, "rs13054198" in ref_id, "rs9435731" in ref_id)
